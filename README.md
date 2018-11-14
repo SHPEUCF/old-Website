@@ -7,7 +7,7 @@ Web Applications (React) for the Society of Hispanic Professional Engineers - UC
 * Install Node.js: https://nodejs.org/en/
 * Open up either Terminal(Mac) or Command Prompt(Windows) idk anything about linux
 * Clone this in your desired folder, change directory to do so. Ex. 'cd Desktop/whateverdirectoryyouwantorjustindesktop'
-* Clone this repository by running 'git clone (address of repository)'. 
+* Clone this repository by running 'git clone (address of repository)'.
 * Once cloned go into project folder 'cd shpeucfapp'
 * Run 'npm install'
 
@@ -20,6 +20,8 @@ Web Applications (React) for the Society of Hispanic Professional Engineers - UC
 
 ### Debugging/ Getting rid of errors
 * If git is not a recognized command then download git-cli. https://git-scm.com/downloads
+* If 'npm start' causes an error 'react-scripts is not recognized', use 'npm install react-scripts'
+* Then run 'npm start' again  
 
 ## Learn More
 * (https://facebook.github.io/create-react-app/docs/getting-started)
