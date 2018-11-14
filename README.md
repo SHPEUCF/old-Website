@@ -21,7 +21,7 @@ Web Applications (React) for the Society of Hispanic Professional Engineers - UC
 ### Debugging/ Getting rid of errors
 * If git is not a recognized command then download git-cli. https://git-scm.com/downloads
 * If 'npm start' causes an error 'react-scripts is not recognized', use 'npm install react-scripts'
-* Then run 'npm start' again  
+  * then run 'npm start' again  
 
 ## Learn More
 * (https://facebook.github.io/create-react-app/docs/getting-started)
