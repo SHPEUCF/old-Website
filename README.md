@@ -1,44 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SHPE UCF Web Applications
+Web Applications (React) for the Society of Hispanic Professional Engineers - UCF Chapter
 
-## Available Scripts
+## Install App for development/testing purposes
 
-In the project directory, you can run:
+### Step 1 - Install
+* Install Node.js: https://nodejs.org/en/
+* Open up either Terminal(Mac) or Command Prompt(Windows) idk anything about linux
+* Clone this in your desired folder, change directory to do so. Ex. 'cd Desktop/whateverdirectoryyouwantorjustindesktop'
+* Clone this repository by running 'git clone (address of repository)'. 
+* Once cloned go into project folder 'cd shpeucfapp'
+* Run 'npm install'
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Step 2 - Running the website
+* On the Terminal/Command Prompt make sure you are inside the project shpeucfwebsite/
+* run 'npm start'
+* Open your web browser and go to [http://localhost:3000]
+* The page should reload if you make any edits in the text and you will see errors in the web browser console
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Debugging/ Getting rid of errors
+* If git is not a recognized command then download git-cli. https://git-scm.com/downloads
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* (https://facebook.github.io/create-react-app/docs/getting-started)
